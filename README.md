@@ -3,7 +3,7 @@
 A Streamlit web application that allows users to upload any CSV file and explore the data interactively — no coding required.
 
 ## Live Demo
-https://data-explorer-f3jtejr9emx6umdsyjc83u.streamlit.app/
+https://data-explorer-abhisyanth.streamlit.app/
 
 ## Overview
 Smart Data Explorer is designed for anyone who wants to quickly understand a dataset without writing code. Upload a CSV file and instantly get a preview, statistics, filtering options and column insights.
